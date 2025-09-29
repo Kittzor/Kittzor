@@ -24,7 +24,7 @@ jobs:
 
           # --- Allmänt ---
           SECTION_NAME: "waka"             # måste matcha dina README-taggar
-          LOCALE: "sv-SE"
+          LOCALE: "en"
           COMMIT_MESSAGE: "Uppdatera README med Dev Metrics"
 
           # --- Vad som visas (justera efter smak) ---
