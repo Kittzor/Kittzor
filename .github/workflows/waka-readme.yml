@@ -1,0 +1,46 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:        # så du kan köra manuellt första gången
+  schedule:
+    - cron: "0 0 * * *"     # kör dagligen kl 00:00 UTC
+
+jobs:
+  update-readme:
+    name: Uppdatera README med utvecklar-metrics
+    runs-on: ubuntu-latest
+
+    # extra säkerhet: ge bara rättigheter som behövs
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generera och skriv statistik till README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # --- Secrets (läggs i repo: Settings → Secrets and variables → Actions) ---
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # din WakaTime-nyckel
+          GH_TOKEN:         ${{ secrets.GH_TOKEN }}           # din fine-grained token
+
+          # --- Allmänt ---
+          SECTION_NAME: "waka"             # måste matcha dina README-taggar
+          LOCALE: "sv-SE"
+          COMMIT_MESSAGE: "Uppdatera README med Dev Metrics"
+
+          # --- Vad som visas (justera efter smak) ---
+          SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          SHOW_TIMEZONE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+
+          SHOW_COMMIT: "True"              # “My GitHub Data” + commitvanor
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+
+          # Valfritt (tungt första gången — slå PÅ om du vill)
+          # SHOW_LINES_OF_CODE: "True"
+          # SHOW_LOC_CHART: "True"
