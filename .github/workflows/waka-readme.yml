@@ -41,6 +41,8 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
 
+          SHOW_SHORT_INFO: "False"       
+
           # Valfritt (tungt första gången — slå PÅ om du vill)
           # SHOW_LINES_OF_CODE: "True"
           # SHOW_LOC_CHART: "True"
