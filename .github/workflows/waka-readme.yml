@@ -31,7 +31,7 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SHOW_TIMEZONE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "True"
 
           SHOW_COMMIT: "True"              # “My GitHub Data” + commitvanor
