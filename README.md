@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2016%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -58,5 +60,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kittzor/Kittzor/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 01:43:11 UTC
+ Last Updated on 17/10/2025 01:42:02 UTC
 <!--END_SECTION:waka-->
