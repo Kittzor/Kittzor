@@ -28,19 +28,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-C#                       2 hrs 27 mins       ██████████████████░░░░░░░   70.30 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-InnoviaHubKitte          3 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -60,5 +57,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kittzor/Kittzor/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 01:37:09 UTC
+ Last Updated on 19/10/2025 01:53:20 UTC
 <!--END_SECTION:waka-->
