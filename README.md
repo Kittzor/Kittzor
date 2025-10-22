@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -28,16 +28,19 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 1 min          ███████████████░░░░░░░░░░   58.20 % 
+TypeScript               41 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+InnoviaHubKitte          1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -57,5 +60,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kittzor/Kittzor/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 01:45:00 UTC
+ Last Updated on 22/10/2025 01:48:04 UTC
 <!--END_SECTION:waka-->
