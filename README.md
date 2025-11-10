@@ -28,18 +28,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-C#                       1 hr 33 mins        █████████████████░░░░░░░░   66.35 % 
-TypeScript               47 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-InnoviaHubKitte          2 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -59,5 +57,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kittzor/Kittzor/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 01:51:06 UTC
+ Last Updated on 10/11/2025 01:52:56 UTC
 <!--END_SECTION:waka-->
