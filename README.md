@@ -1,45 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2042%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                144 commits         ████████████░░░░░░░░░░░░░   47.37 % 
-🌆 Daytime                126 commits         ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌃 Evening                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   86 commits          ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Wednesday                65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Thursday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Stockholm
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -57,5 +16,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kittzor/Kittzor/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 01:44:58 UTC
+ Last Updated on 16/11/2025 01:54:25 UTC
 <!--END_SECTION:waka-->
